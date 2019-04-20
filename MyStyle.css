@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+  font-size: 120%;
+  color: #3E3E3E ;
+}
+#footer {
+  background: #2B2B2B;
+}
+
+#footer-content {
+  background: #EDECEC;
+}
+
+#header title {
+	font-size: 100%;
+	font: bolder;
+	font: italic
+
+}
+
+#speakers {
+	font: italic;
+	
+}
+
+#body h2 {
+	font: italic;
+}
+
+#body footer div div div ul li a {
+	color: #C5B21B;
+	
+	
+}
