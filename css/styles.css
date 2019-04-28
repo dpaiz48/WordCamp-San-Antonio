@@ -12,4 +12,12 @@ h1 h2 h3 h4 h5 h6 {
   .navbar.navbar-light .navbar-nav .nav-linkactive {
     color: wc-color-yellow; }
 
+/*Jumbotron */
+.jumbotron {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: transparent; }
+
 /*# sourceMappingURL=styles.css.map */
